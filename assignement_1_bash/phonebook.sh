@@ -1,6 +1,12 @@
 #!/bin/bash
 #set -x //enables debug
 #set +x //disables debug
+
+#Writing some comments
+
+
+#sdfhsdfhsdhsdgh
+
 tempName="hamada"
 tempNumber="hamada"
 delimiter="\t"
